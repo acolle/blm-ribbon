@@ -2,7 +2,7 @@
 A ribbon to add on your website to support the Black Lives Matter (BLM) movement and protests.
 
 ### Code Snippet
-On your HTML page, simply add the ```<style></style>``` and ```<span></span>``` elements inside ```<head></head>``` and ```<body></body>``` blocks respectively, as shown in the code snippet below. If you use external CSS files, just add the code inside ```<style></style>``` in your CSS file and make sure this CSS file is referenced on your HTML page.
+On your HTML page, simply add the ```<style></style>``` and ```<span></span>``` elements inside the ```<head></head>``` and ```<body></body>``` blocks respectively, as shown in the code snippet below. If you use external CSS files, just add the code inside ```<style></style>``` in your CSS file and make sure this CSS file is referenced on your HTML page.
 
 ```html
 <!DOCTYPE html>
